@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=akankshapal602&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  Hi there, its Akanksha
+  Hi there, it's Akanksha
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
