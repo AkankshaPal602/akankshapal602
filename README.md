@@ -38,5 +38,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original-wordmark.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
 </div>
